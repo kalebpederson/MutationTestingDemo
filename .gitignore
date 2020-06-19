@@ -1,0 +1,15 @@
+bin/
+obj/
+.idea/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# user specific files
+*.user
+
+# temp / backup files
+*.swp
+*.bak
+*.~
+
